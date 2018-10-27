@@ -39,7 +39,7 @@ end
 def play(board)
   play += 0
   loop do
-puts "cheese"
+puts (turn(board))
 if play >= 9
   break
 end
