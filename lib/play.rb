@@ -36,13 +36,3 @@ def turn(board)
 end
 
 # Define your play method below
-def play(board)
-  counter += 0
-  loop do
-
-return turn(board)
-
-if counter >= 9
-  break
-end
-end
