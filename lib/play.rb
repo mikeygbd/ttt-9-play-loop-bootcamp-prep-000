@@ -42,5 +42,5 @@ def play(board)
 puts (turn(board))
 if play >= 9
   break
-end
+
 end
