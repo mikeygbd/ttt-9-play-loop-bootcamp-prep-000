@@ -37,10 +37,13 @@ end
 
 # Define your play method below
 def play(board)
-
 puts turn(board)
-
-
-
-end
+puts turn(board)
+puts turn(board)
+puts turn(board)
+puts turn(board)
+puts turn(board)
+puts turn(board)
+puts turn(board)
+puts turn(board)
 end
