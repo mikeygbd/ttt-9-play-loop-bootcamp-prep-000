@@ -37,10 +37,10 @@ end
 
 # Define your play method below
 def play(board)
-  counter += 0
+  play += 0
   loop do
 puts "cheese"
-if counter >= 9
+if play >= 9
   break
 end
 end
